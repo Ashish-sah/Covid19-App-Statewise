@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid 19 App (State wise)</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="active">Active Cases</string>
+    <string name="global_stats">Global Stats : India</string>
+    <string name="cases">Cases</string>
+    <string name="critical">Critical</string>
+    <string name="activecass">Active</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="today_deaths">Today Deaths</string>
+    <string name="today_recovered">Today Recovered</string>
+    <string name="track_countries">Track Cases Statewise</string>
+    <string name="search">Search</string>
+</resources>
