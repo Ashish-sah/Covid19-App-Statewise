@@ -14,9 +14,9 @@ An android application for Showing Covid19 cases of Indian states.
   - Volley is an HTTP library that makes networking for Android apps easier and, most importantly, faster https://developer.android.com/training/volley/index.html
     
  ## APPLICATION DISPLAY
-<abc><img src="Screenshots/Layout1.jpg" width=300></abc>
-<abc><img src="Screenshots/Layout2.jpg" width=300></abc>
-<abc><img src="Screenshots/Layout3.jpg" width=300></abc>
+<abc><img src="Screenshots/Layout1.jpg" width=250></abc>
+<abc><img src="Screenshots/Layout2.jpg" width=250></abc>
+<abc><img src="Screenshots/Layout3.jpg" width=250></abc>
 
 ### Prerequisites
 What things you need to install the software and how to install them
