@@ -33,7 +33,7 @@ A step by step series of examples that tell you how to get a development environ
 
 Say what the step will be
 ```
-You can Download the application using below link-
+You can Download the project using below link-
 https://github.com/Ashish-sah/Covid19-App-Statewise
 ```
 ## Apk Link
